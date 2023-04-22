@@ -1,0 +1,20 @@
+# Prerequisites
+.DS_Store
+
+# Object files
+.idea/
+.idea/*
+
+# Linker output
+
+# Precompiled Headers
+
+# Libraries
+
+# Shared objects (inc. Windows DLLs)
+
+# Executables
+
+# Debug files
+
+# Kernel Module Compile Results
